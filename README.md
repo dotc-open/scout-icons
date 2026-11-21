@@ -1,6 +1,8 @@
+> **The icon library has moved to Kilnfield.** See the [current repository](https://github.com/ZacBytes/kilnfield) for downloads and artwork licensing, or [browse the catalog](https://zacbytes.github.io/kilnfield/).
+
 # Scout Icons
 
-[Browse the live catalog](https://dotc-open.github.io/scout-icons/)
+[Browse the live catalog](https://zacbytes.github.io/kilnfield/)
 
 Scout's softly sculpted 3D icon collection covers infrastructure, economy, technology, society, environment, security, country flags, and everyday interfaces. The topic and flag artwork comes from Scout’s original AI-generated pack. The interface illustrations were generated as a single contact sheet and cropped as individual assets.
 
